@@ -1,0 +1,12 @@
+{
+  "name": "node-spider",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "laijw",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fs-extra": "^8.0.1",
+    "superagent": "^5.1.0"
+  }
+}
